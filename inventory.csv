@@ -1,0 +1,32 @@
+path,classification,notes
+brain-fuck_converter.sh,benign,copied to tools/benign/brain-fuck_converter.sh
+me.sh,benign,copied to tools/misc/me.sh
+termux-setup.sh,benign,copied to tools/termux/termux-setup.sh
+ip-flooder.py,dangerous,left in place (duplicate found, copy in duplicates/)
+ip-flooder.py (1),dangerous,left in place (duplicate found, original copy moved to duplicates/)
+NexoDeep.java,unknown,left in place
+nexo_engine.py,dangerous,left in place
+nexo-phisher.py,dangerous,left in place
+nexo-termux_phish.py,dangerous,left in place
+templates/,dangerous,phishing HTML templates left in place
+pass.html,unknown,inspect: may be phishing-related
+nexo_ultimate-setup.sh,dangerous,left in place
+nexo_fast.cpp,unknown,left in place
+nexo_installer.py,unknown,left in place
+nexo_pro.py,unknown,left in place
+nexo_ultimate.py,unknown,left in place
+nexo_ddos.py,dangerous,left in place
+nexo-gen.py,unknown,left in place
+nexo-gmail_creator.py,dangerous,left in place
+nexo-gmail_setup.sh,unknown,left in place
+nexo-termux_otp-lock.py,unknown,left in place
+nexo-termux_phish-package.sh,dangerous,left in place
+nexo-termux_phish.py,dangerous,left in place
+nexo-whatsapp_ban.py,dangerous,left in place
+nexo-wifi_deauth.py,dangerous,left in place
+exo-wifite.py,dangerous,left in place
+nexo-promote.py,unknown,left in place
+nexo-proxy.py,unknown,left in place
+nexo-reporter.py,unknown,left in place
+nexo_ultimate-setup.sh,unknown,left in place
+setup.sh,unknown,left in place
